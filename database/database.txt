@@ -1,0 +1,6 @@
+id		int(11)		AUTO_INCREMENT
+nim		varchar(255)
+nama		varchar(255)
+jurusan		varchar(255)
+alamat		text
+gambar		varchar(255)
